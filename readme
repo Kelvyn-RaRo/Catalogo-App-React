@@ -1,0 +1,21 @@
+ 📱 Catálogo Interativo Mobile
+
+App mobile desenvolvido com React Native + Expo para listagem de produtos por categoria.
+
+# Como rodar
+```bash
+npm install
+npx expo start
+```
+
+# Tecnologias
+- React Native + Expo
+- Axios
+- Redux Toolkit
+- React Navigation
+
+# Funcionalidades
+- Login com validação
+- Listagem por categoria masculina/feminina
+- Detalhes do produto
+- Logout
